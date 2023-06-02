@@ -5,7 +5,14 @@ import { landingbg } from '@/public/imgs';
 export default function Home() {
 	return (
 		<main className={styles.main}>
-			<Image className={styles.img} src={landingbg} alt={''} width={900} height={500} />
+			<Image
+				className={styles.img}
+				src={landingbg}
+				alt={''}
+				width={900}
+				height={500}
+				priority={true}
+			/>
 			<div className={styles.content}>
 				<div className={styles.path}>
 					<h2>Hi, I&apos;m Alfonso</h2>
