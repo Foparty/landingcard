@@ -19,6 +19,7 @@ export default function Home() {
 					<p>
 						I am a Freelance <span>Frontend React developer</span>
 					</p>
+					<p>This card is ment to be seen in a tablet size screen or higher. </p>
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, corporis eligendi
 						exercitationem fugit harum ipsam iusto minima necessitatibus nemo neque nulla officiis
