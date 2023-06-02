@@ -19,7 +19,7 @@
 
 	.wrapper {
 		width: min(100% - 2rem, 56rem);
-		height: auto;
+		height: 29rem;
 		margin-inline: auto;
 		aspect-ratio: 16 / 8;
 		position: relative;
