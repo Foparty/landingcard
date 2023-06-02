@@ -82,7 +82,7 @@
 
 	.path {
 		width: 100%;
-		height: 100%;
+		height: 29rem;
 		clip-path: polygon(39% 0, 100% 0%, 100% 100%, 18% 100%);
 		display: flex;
 		flex-direction: column;
